@@ -1,0 +1,7 @@
+Name     Age Dept     Salary Score City     Status
+Alice    22  HR        50000   89  Delhi    Active
+Bob      25  IT        60000   76  Mumbai   Inactive
+Charlie  30  Finance   70000   92  Kolkata  Active
+David    28  IT        55000   66  Chennai  Active
+Eva      24  HR        52000   81  Delhi    Inactive
+Frank    35  Finance   80000   73  Mumbai   Active

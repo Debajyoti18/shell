@@ -1,0 +1,15 @@
+#!/bin/bash
+set -e 
+#######################################################################
+############### Awk commands #########################################
+######################################################################
+
+
+# Showing the contents  of the input file 
+ls input.txt
+
+
+# Printing all i.e All rows of the table 
+awk '{print}' input.sh
+
+
